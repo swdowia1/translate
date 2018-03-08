@@ -1,0 +1,6 @@
+C:\dysk_d\wywal\createImage\createImage\bin\Debug\createImage.exe.config
+C:\dysk_d\wywal\createImage\createImage\bin\Debug\createImage.exe
+C:\dysk_d\wywal\createImage\createImage\bin\Debug\createImage.pdb
+C:\dysk_d\wywal\createImage\createImage\obj\Debug\createImage.csprojResolveAssemblyReference.cache
+C:\dysk_d\wywal\createImage\createImage\obj\Debug\createImage.exe
+C:\dysk_d\wywal\createImage\createImage\obj\Debug\createImage.pdb
